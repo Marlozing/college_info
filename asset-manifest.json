@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/college_info/static/css/main.4a2b4a46.css",
-    "main.js": "/college_info/static/js/main.5ffad84a.js",
+    "main.js": "/college_info/static/js/main.decbf008.js",
     "index.html": "/college_info/index.html",
     "main.4a2b4a46.css.map": "/college_info/static/css/main.4a2b4a46.css.map",
-    "main.5ffad84a.js.map": "/college_info/static/js/main.5ffad84a.js.map"
+    "main.decbf008.js.map": "/college_info/static/js/main.decbf008.js.map"
   },
   "entrypoints": [
     "static/css/main.4a2b4a46.css",
-    "static/js/main.5ffad84a.js"
+    "static/js/main.decbf008.js"
   ]
 }
